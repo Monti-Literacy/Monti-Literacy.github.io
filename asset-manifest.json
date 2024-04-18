@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5c4893d7.css",
+    "main.js": "/static/js/main.ef613d44.js",
+    "static/js/885.141b79ee.chunk.js": "/static/js/885.141b79ee.chunk.js",
+    "static/media/montiLogo.png": "/static/media/montiLogo.edfa2ec9bbabd112e127.png",
+    "static/media/s.wav": "/static/media/s.27a987c10dc04f1fdec0.wav",
+    "static/media/f.wav": "/static/media/f.f328367794d1eb0f8035.wav",
+    "static/media/n.wav": "/static/media/n.9bfed9ce961bd85f2c80.wav",
+    "static/media/a.wav": "/static/media/a.e0fc8e74b074ecf535bd.wav",
+    "static/media/y.wav": "/static/media/y.74275521888211629635.wav",
+    "static/media/i.wav": "/static/media/i.5f44de96dd217e8444a6.wav",
+    "static/media/l.wav": "/static/media/l.808a70caf9aed38480aa.wav",
+    "static/media/z.wav": "/static/media/z.ae89a9a757123c21daa6.wav",
+    "static/media/v.wav": "/static/media/v.8cfed8cc6f71282fd259.wav",
+    "static/media/w.wav": "/static/media/w.90459d4ff3273152af37.wav",
+    "static/media/x.wav": "/static/media/x.29b2dc8475ed8ad9d190.wav",
+    "static/media/r.wav": "/static/media/r.45030fd4634966ad1ac4.wav",
+    "static/media/u.wav": "/static/media/u.4ea85880212e0d0416cb.wav",
+    "static/media/q.wav": "/static/media/q.6b5939b5b2d41ecc274c.wav",
+    "static/media/j.wav": "/static/media/j.c5516aff6c5d4268f250.wav",
+    "static/media/m.wav": "/static/media/m.21e86b65af8ca5ab11e6.wav",
+    "static/media/b.wav": "/static/media/b.ac724ba18f2096534088.wav",
+    "static/media/k.wav": "/static/media/k.d78284e42ca1483a0e82.wav",
+    "static/media/o.wav": "/static/media/o.16e7ee694dc2a14ffb7c.wav",
+    "static/media/g.wav": "/static/media/g.f03903b6f2942ca6361c.wav",
+    "static/media/c.wav": "/static/media/c.0b2dfe3be71f36668f8e.wav",
+    "static/media/d.wav": "/static/media/d.752e5d523c5d789403b7.wav",
+    "static/media/p.wav": "/static/media/p.13260c8a0a18adfa5ba9.wav",
+    "static/media/e.wav": "/static/media/e.163c036fb0200d61c289.wav",
+    "static/media/h.wav": "/static/media/h.c82ca469f292aaaa9a59.wav",
+    "static/media/t.wav": "/static/media/t.1fc4d3be626c67de4ac0.wav",
+    "static/media/MontessoriGardenScript.woff": "/static/media/MontessoriGardenScript.ac5426c00bfdbc65e7bd.woff",
+    "index.html": "/index.html",
+    "main.5c4893d7.css.map": "/static/css/main.5c4893d7.css.map",
+    "main.ef613d44.js.map": "/static/js/main.ef613d44.js.map",
+    "885.141b79ee.chunk.js.map": "/static/js/885.141b79ee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c4893d7.css",
+    "static/js/main.ef613d44.js"
+  ]
+}
