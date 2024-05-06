@@ -1,8 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.5c4893d7.css",
-    "main.js": "/static/js/main.ef613d44.js",
-    "static/js/885.141b79ee.chunk.js": "/static/js/885.141b79ee.chunk.js",
+    "main.js": "/static/js/main.ead7e5f2.js",
     "static/media/montiLogo.png": "/static/media/montiLogo.edfa2ec9bbabd112e127.png",
     "static/media/s.wav": "/static/media/s.27a987c10dc04f1fdec0.wav",
     "static/media/f.wav": "/static/media/f.f328367794d1eb0f8035.wav",
@@ -33,11 +32,10 @@
     "static/media/MontessoriGardenScript.woff": "/static/media/MontessoriGardenScript.ac5426c00bfdbc65e7bd.woff",
     "index.html": "/index.html",
     "main.5c4893d7.css.map": "/static/css/main.5c4893d7.css.map",
-    "main.ef613d44.js.map": "/static/js/main.ef613d44.js.map",
-    "885.141b79ee.chunk.js.map": "/static/js/885.141b79ee.chunk.js.map"
+    "main.ead7e5f2.js.map": "/static/js/main.ead7e5f2.js.map"
   },
   "entrypoints": [
     "static/css/main.5c4893d7.css",
-    "static/js/main.ef613d44.js"
+    "static/js/main.ead7e5f2.js"
   ]
 }
