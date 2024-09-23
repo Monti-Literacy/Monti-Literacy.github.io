@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.5c4893d7.css",
-    "main.js": "/static/js/main.98050996.js",
+    "main.js": "/static/js/main.89bb08da.js",
     "static/media/h.wav": "/static/media/h.c82ca469f292aaaa9a59.wav",
     "static/media/Muy bien.wav": "/static/media/Muy bien.f265e916541659106c45.wav",
     "static/media/nowitsyourturn.wav": "/static/media/nowitsyourturn.35547567ef6f33789b0d.wav",
@@ -40,10 +40,10 @@
     "static/media/MontessoriGardenScript.woff": "/static/media/MontessoriGardenScript.ac5426c00bfdbc65e7bd.woff",
     "index.html": "/index.html",
     "main.5c4893d7.css.map": "/static/css/main.5c4893d7.css.map",
-    "main.98050996.js.map": "/static/js/main.98050996.js.map"
+    "main.89bb08da.js.map": "/static/js/main.89bb08da.js.map"
   },
   "entrypoints": [
     "static/css/main.5c4893d7.css",
-    "static/js/main.98050996.js"
+    "static/js/main.89bb08da.js"
   ]
 }
